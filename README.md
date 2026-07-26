@@ -1,56 +1,43 @@
-<div align="center">
+### Kadiri Ahmed (CodeByQuan) — Nigerian software developer and freelancer with 4 years of experience building production-grade web applications, focused on frontend engineering and shipping products from idea to deployment.
 
-# Hi, I'm Kadiri Ahmed 👋
-### Full-Stack Developer · Building under the **CodeByQuan** brand
+```ts
+interface Developer {
+    name: string;
+    alias: string;
+    experience: string;
+    focus: string[];
+    location: string;
+}
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codebyquan.cv-00A86B?style=flat-square)](https://codebyquan.cv)
-[![Email](https://img.shields.io/badge/Email-kadirisuccess10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kadirisuccess10@gmail.com)
-[![X](https://img.shields.io/badge/X-@codebyquan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/codebyquan)
+const me: Developer = {
+    name: "Kadiri Ahmed",
+    alias: "CodeByQuan",
+    experience: "4+ years",
+    focus: ["Frontend Engineering", "Next.js", "TypeScript", "Product Development"],
+    location: "Nigeria",
+};
+```
 
-</div>
-
----
-
-### About Me
-
-- 💼 Freelance developer and founder, based in Nigeria
-- 🛠 Frontend-focused: **Next.js**, **TypeScript**, **Tailwind CSS**
-- 🚀 Work the full product lifecycle — from idea and PRD to build and deployment
-- 🌍 Focused on building for the Nigerian and African developer/SMB market
-
----
-
-### Tech Stack
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[Portfolio](https://codebyquan.cv) · [Email](mailto:kadirisuccess10@gmail.com) · [X](https://x.com/codebyquan)
 
 ---
 
+<!--
 ### Featured Projects
 
-- **[FormVow](https://github.com/CodeByQuan-01)** — Form-backend SaaS for developers
-- **[EnvGuard](https://github.com/CodeByQuan-01)** — VS Code extension that detects hardcoded secrets
-- **[Portfolio](https://codebyquan.cv)** — Personal site built in Next.js and Tailwind
+**FormVow** — Form-Backend SaaS
+A reliable form backend built for developers: signed webhook delivery, automatic retries, idempotency keys, and a full delivery manifest so no submission gets lost.
+[View Project →](https://formvow.com)
 
-> Update the FormVow and EnvGuard links above to point at their actual repos.
-
----
-
-### GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodeByQuan-01&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-</div>
+**Portfolio** — Personal Site
+Built in Next.js and Tailwind CSS, featuring a live Spotify Now Playing widget and a GitHub contribution graph, with full SEO implementation (metadata, sitemap, OG images).
+[View Project →](https://codebyquan.cv)
+-->
 
 ---
 
-<div align="center">
+### Connect
 
-Thanks for stopping by — feel free to reach out.
-
-</div>
+- Portfolio: [codebyquan.cv](https://codebyquan.cv)
+- Email: [kadirisuccess10@gmail.com](mailto:kadirisuccess10@gmail.com)
+- X: [@codebyquan](https://x.com/codebyquan)
