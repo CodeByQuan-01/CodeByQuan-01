@@ -18,11 +18,11 @@ const me: Developer = {
 };
 ```
 
-[Portfolio](https://codebyquan.cv) · [Email](mailto:kadirisuccess10@gmail.com) · [X](https://x.com/codebyquan)
+<!--[Portfolio](https://codebyquan.cv) · [Email](mailto:kadirisuccess10@gmail.com) · [X](https://x.com/codebyquan)
 
 ---
 
-<!--
+
 ### Featured Projects
 
 **FormVow** — Form-Backend SaaS
