@@ -1,4 +1,4 @@
-### Kadiri Ahmed (CodeByQuan) — Nigerian software developer and freelancer with 4 years of experience building production-grade web applications, focused on frontend engineering and shipping products from idea to deployment.
+### Kadiri Ahmed (CodeByQuan) — Nigerian software developer and freelancer with 4 years of experience building production-grade web applications, focused on full stack engineering and shipping products from idea to deployment.
 
 ```ts
 interface Developer {
@@ -13,7 +13,7 @@ const me: Developer = {
     name: "Kadiri Ahmed",
     alias: "CodeByQuan",
     experience: "4+ years",
-    focus: ["Frontend Engineering", "Next.js", "TypeScript", "Product Development"],
+    focus: ["Full-stack Engineering", "Next.js", "TypeScript", "Product Development"],
     location: "Nigeria",
 };
 ```
