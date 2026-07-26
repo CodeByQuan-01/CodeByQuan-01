@@ -1,69 +1,56 @@
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ANIMATED WAVY HEADER                                                        ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00ff41&height=180&section=header&text=CodeByQuan&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=Kadiri%20Ahmed%20Success%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18&descColor=c9d1d9" width="100%" />
 
+# Hi, I'm Kadiri Ahmed 👋
+### Full-Stack Developer · Building under the **CodeByQuan** brand
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  TYPING ANIMATION — DYNAMIC INTRO                                             ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey!+I'm+CodeByQuan+%F0%9F%91%8B;Building+things+that+live+on+the+internet;Open+Source+Contributor+%F0%9F%94%A5;Bug+Hunter+%7C+Problem+Solver+%F0%9F%95%B5%EF%B8%8F;Code+is+poetry.+Bugs+are+just+free+verse." alt="Typing Animation" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-codebyquan.cv-00A86B?style=flat-square)](https://codebyquan.cv)
+[![Email](https://img.shields.io/badge/Email-kadirisuccess10%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kadirisuccess10@gmail.com)
+[![X](https://img.shields.io/badge/X-@codebyquan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/codebyquan)
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  SOCIAL BADGES — CLEAN & PROFESSIONAL                                         ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<a href="https://github.com/CodeByQuan-01">
-<a href="https://linkedin.com/in/codebyquan">
-<a href="https://twitter.com/codebyquan">
-<a href="mailto:codebyquan@email.com">
-<a href="https://codebyquan.dev">
 </div>
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  ABOUT ME — CLEAN YAML STYLE (PLAYFUL YET PROFESSIONAL)                       ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">🚀 <code>cat about.yml</code></h2>
-name: Kadiri Ahmed Success
-alias: CodeByQuan
-location: "The Internet 🌍"
-role: Full Stack Developer
 
-currently:
-  building: "Something that doesn't exist yet"
-  learning: ["Rust", "System Design", "AI/ML"]
-  reading: "The Pragmatic Programmer"
-  vibing_to: "Lo-fi beats while debugging"
+---
 
-philosophy:
-  - "First make it work. Then make it right. Then make it fast."
-  - "The best code is the one you never have to write twice."
-  - "If it works, don't touch it... unless you can make it better."
+### About Me
 
-daily_routine:
-  - "☕ Coffee → 💻 Code → 🐛 Debug → ☕ More Coffee → 🚀 Ship"
+- 💼 Freelance developer and founder, based in Nigeria
+- 🛠 Frontend-focused: **Next.js**, **TypeScript**, **Tailwind CSS**
+- 🚀 Work the full product lifecycle — from idea and PRD to build and deployment
+- 🌍 Focused on building for the Nigerian and African developer/SMB market
 
-fun_facts:
-  - "I read documentation like it's a novel 📖"
-  - "I break production... then fix it better 🔧"
-  - "I mentor upcoming devs because someone did it for me 🤝"
-  - "My best ideas come in the shower 🚿"
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ║  TECH STACK — ORGANIZED BY CATEGORY                                           ║ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<h2 align="center">⚡ <code>neofetch --tech-stack</code></h2>
+---
+
+### Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Featured Projects
+
+- **[FormVow](https://github.com/CodeByQuan-01)** — Form-backend SaaS for developers
+- **[EnvGuard](https://github.com/CodeByQuan-01)** — VS Code extension that detects hardcoded secrets
+- **[Portfolio](https://codebyquan.cv)** — Personal site built in Next.js and Tailwind
+
+> Update the FormVow and EnvGuard links above to point at their actual repos.
+
+---
+
+### GitHub Stats
+
 <div align="center">
-Languages I Speak (to Computers)
- JavaScript 
+<img src="https://github-readme-stats.vercel.app/api?username=CodeByQuan-01&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+</div>
 
- TypeScript 
+---
 
- Python 
+<div align="center">
 
- Go 
+Thanks for stopping by — feel free to reach out.
 
- Rust 
-Frontend Arsenal
- React 
-
- Next.js 
+</div>
